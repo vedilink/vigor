@@ -28,7 +28,7 @@ export default () => (
       rel="noopener"
       target="_blank"
     >
-      Powered by Vigor at Vedilink
+      Powered by Vigor
     </Branding>
   </Footer>
 );
